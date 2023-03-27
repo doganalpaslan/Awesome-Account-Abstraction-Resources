@@ -110,11 +110,12 @@ These two resources are enough for understanding fundamental concepts.
 ## Youtube, Podcast & Resources
 * [Starknet CC's Account Abstraction Panel](https://www.youtube.com/watch?v=sbbVCAB--i4&t=20741s)
 * [Account Abstraction Panel | Devcon Bogotá](https://www.youtube.com/watch?v=WsZBymiyT-8)
+* [Account Abstraction session with Yoav | StarkWare Sessions](https://www.youtube.com/watch?v=lkcqVVNu0q8) 
 ## Other Resources 
 * [A twitter Thread by Petejkim](https://twitter.com/petejkim/status/1529604590882234368)
 * [An Another Twitter Thread by Petejkim](https://twitter.com/petejkim/status/1527027583254241280)
 * [A Twitter Thread by SolomonCrypto](https://twitter.com/SalomonCrypto/status/1612587312638234626)
-
+* [A twitter Thread by Vitalik ](https://twitter.com/VitalikButerin/status/1576199517434949634) 
 
 
 ---
